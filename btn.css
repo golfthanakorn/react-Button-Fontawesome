@@ -1,0 +1,297 @@
+.btnPlt {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnPlt {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+
+.btnPlt {border-radius: 12px;}
+
+.btnPltHover {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnPltHover {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+.btnPltHover:hover {
+    background-color: #CD0000;
+    color: white;
+    border: 2px solid #CD0000;
+}
+
+.btnPltHover {border-radius: 12px;}
+
+.btnPltDis {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnPltDis {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+.btnPltDis:hover {
+    background-color: #F8F8F8;
+    color: #677279;
+    border: 2px solid #677279;
+}
+
+.btnPltDis {border-radius: 12px;}
+
+.btnPltDis {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btnPltActive {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnPltActive {
+    background-color: white; 
+    color: #E91F33; 
+    border: 2px solid #E91F33;
+}
+
+.btnPltActive {border-radius: 12px;}
+
+.btnPltActive:active { 
+    background-color: #E91F33;
+    color: white;
+}
+
+.btnPltFocus {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.btnPltFocus {
+    background-color: white; 
+    color: #E91F33; 
+    border: 2px solid #E91F33;
+}
+
+.btnPltFocus {border-radius: 12px;}
+
+.btnPltFocus:focus { 
+    background-color: #E91F33;
+    color: white; 
+    border: 4px solid #A2222F;
+}
+
+.pictureNormal {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.pictureNormal {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+
+.pictureNormal {border-radius: 12px;}
+
+.pictureHovered {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.pictureHovered {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+.pictureHovered:hover {
+    background-color: #CD0000;
+    color: white;
+    border: 2px solid #CD0000;
+}
+
+.pictureHovered {border-radius: 12px;}
+
+.picturedisabled {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.picturedisabled {
+    background-color: white; 
+    color: #CD0000; 
+    border: 2px solid #CD0000;
+}
+
+.picturedisabled:hover {
+    background-color: #F8F8F8;
+    color: #677279;
+    border: 2px solid #677279;
+}
+
+.picturedisabled {border-radius: 12px;}
+
+.picturedisabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.pictureactive {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.pictureactive {
+    background-color: white; 
+    color: #E91F33; 
+    border: 2px solid #E91F33;
+}
+
+.pictureactive {border-radius: 12px;}
+
+.pictureactive:active { 
+    background-color: #E91F33;
+    color: white;
+}
+
+.picturefocus {
+  background-color: #CD0000; 
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.picturefocus {
+    background-color: white; 
+    color: #E91F33; 
+    border: 2px solid #E91F33;
+}
+
+.picturefocus {border-radius: 12px;}
+
+.picturefocus:focus { 
+    background-color: #E91F33;
+    color: white; 
+    border: 4px solid #A2222F;
+}
+
+/*for this command for upsizing and downsizing the icon
+fa-lg = 1.3em , fa-2x = 2em , fa-3x = 3em , ... , fa-nx = n em
+or use this command to change all of the icon
+.fa{
+  font-size: 30px;
+}
+it will change all of the fa font class
+*/
+
