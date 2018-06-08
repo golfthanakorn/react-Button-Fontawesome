@@ -11,6 +11,8 @@ import PltButtonActiveIcon from './PltButtonActiveIcon';
 import PltButtonFocusIcon from './PltButtonFocusIcon';
 import PltButtonDisIcon from './PltButtonDisIcon';
 
+fontawesome.library.add(brands, faCoffee)
+
 storiesOf('PltButtonIcon', module)
     .add('btnPltNormIcon', () => <PltButtonNormalIcon text="hello"  btnPlt="btnPlt" icon={<FontAwesomeIcon icon="coffee" />} />  )
 
