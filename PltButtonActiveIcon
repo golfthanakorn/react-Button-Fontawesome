@@ -1,0 +1,28 @@
+import React, {Component} from "react";
+
+import './button.css';
+
+class PltButtonActiveIcon extends Component {
+  constructor(props) {
+      super(props);
+
+  }
+   render(){
+
+    let btnPltActive = this.props.btnPltActive;
+
+      return (
+         
+          <button className={btnPltActive}  >
+         {  this.props.text }
+         
+        { this.props.icon && this.props.icon
+}
+        </button> 
+        
+          )
+        };
+}
+
+
+export default PltButtonActiveIcon;
